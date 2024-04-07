@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Events Project**
 
-- 🌱 I’m currently learning **nestjs**
+- 🌱 I’m currently learning **rust**
 
 - 👯 I’m looking to collaborate on **any open source package**
 
